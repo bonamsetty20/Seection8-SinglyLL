@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSection8-SinglyLinkedList\ConAppSection8-SinglyLinkedList\bin\Debug\ConAppSection8-SinglyLinkedList.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSection8-SinglyLinkedList\ConAppSection8-SinglyLinkedList\bin\Debug\ConAppSection8-SinglyLinkedList.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSection8-SinglyLinkedList\ConAppSection8-SinglyLinkedList\bin\Debug\ConAppSection8-SinglyLinkedList.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSection8-SinglyLinkedList\ConAppSection8-SinglyLinkedList\obj\Debug\ConAppSection8-SinglyLinkedList.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSection8-SinglyLinkedList\ConAppSection8-SinglyLinkedList\obj\Debug\ConAppSection8-SinglyLinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSection8-SinglyLinkedList\ConAppSection8-SinglyLinkedList\obj\Debug\ConAppSection8-SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSection8-SinglyLinkedList\ConAppSection8-SinglyLinkedList\obj\Debug\ConAppSection8-SinglyLinkedList.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\ConAppSection8-SinglyLinkedList\ConAppSection8-SinglyLinkedList\obj\Debug\ConAppSection8-SinglyLinkedList.pdb
